@@ -2,10 +2,11 @@
 A simple web application to generate custom QR codes using HTML, CSS, and JavaScript.
 
 🚀 Features
-Real-time QR code generation
 <br>
-Supports URLs and text
+      Real-time QR code generation
 <br>
-Clean, responsive UI
+      Supports URLs and text
 <br>
-Downloadable QR codes
+      Clean, responsive UI
+<br>
+      Downloadable QR codes
